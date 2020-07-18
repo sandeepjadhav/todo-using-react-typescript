@@ -1,2 +1,2 @@
-# todo-react-typescript-todo
+# todo-react-typescript
 Todo list using react with typescript
